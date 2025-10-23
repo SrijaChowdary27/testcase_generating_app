@@ -80,7 +80,7 @@ async def generate_test_cases(user_story: str, model_choice: str = "openai") -> 
 - Scenario Type (Positive, Negative, Edge Case, Acceptance)
 - Description
 - Preconditions
-- Steps (write as plain text, numbered list if needed, but DO NOT use <br>, <br/>, or any HTML tags)
+- Steps (strictly write as plain text, numbered list if needed, but DO NOT use <br>, <br/>, or any HTML tags)
 - Expected Results
 - Priority Level
  
