@@ -70,3 +70,25 @@ app/ (package)
 
 - Run the app directly with `python run.py` while developing.
 - Use the existing `test.db` file for persistence; back it up before destructive testing.
+
+## Frontend Interface
+
+
+
+This project includes a **dedicated frontend** built using [Streamlit](https://streamlitte repository.
+
+
+
+**Frontend Repository**: [Testcases Generator UI](https://github.com/your-username/frontendrface for interacting with the test case generation bot, including:
+
+
+
+- Inputting user stories
+- Viewing generated test cases
+- Managing history (download/delete)
+- Switching between AI models (OpenAI/Gemini)
+
+
+
+> Ensure both the backend and frontend are properly configured if you're deploying them together. You may need to set up API endpoints or shared storage depending on your architecture.
+``
